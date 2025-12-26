@@ -1,13 +1,13 @@
-class displaydefaultprimitivetype{
+class PrimitiveDataTypes{
 int primitiveInt;
 double primitiveDouble;
 char primitiveChar;
 float primitiveFloat;
 public static void main(String[] args){
-displaydefaultprimitivetype dDpt=new displaydefaultprimitivetype();
-System.out.println("default value of int:" + dDpt.primitiveInt);
-System.out.println("default value of double:" + dDpt.primitiveDouble);
-System.out.println("default value of char:" + dDpt.primitiveChar);
-System.out.println("default value of float:" + dDpt.primitiveFloat);
+PrimitiveDataTypes dDpt = new PrimitiveDataTypes();
+System.out.println("default value of int:" + dDpt.primiti>
+System.out.println("default value of double:" + dDpt.prim>
+System.out.println("default value of char:" + dDpt.primit>
+System.out.println("default value of float:" + dDpt.primi>
 }
 }
